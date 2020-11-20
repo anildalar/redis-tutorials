@@ -12,4 +12,22 @@ Redis can be used as primary DB.
 
 Redis Data Structure
 
-Strings
+Strings ( Key Value)
+	name anil
+	surname dollor
+	company oklabs
+	address neemuch
+	cto yogesh
+	coo anilmeena
+
+Hashes (Object) (Key Field Value)
+Student A 
+	1.Name
+	2.Class
+	3.Address
+	4.RollNo
+Student B
+	1.Name
+	2.Class
+	3.Address
+	4. RollNo
