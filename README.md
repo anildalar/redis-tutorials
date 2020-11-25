@@ -31,3 +31,10 @@ Student B
 	2.Class
 	3.Address
 	4. RollNo
+	
+Redis Data Structure
+
+1. String
+2. Hash
+3. List
+4. Sets (Collection of Unique Member (Elements) )
