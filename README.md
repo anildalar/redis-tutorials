@@ -35,6 +35,12 @@ Student B
 Redis Data Structure
 
 1. String
+
 2. Hash
+
 3. List
+
 4. Sets (Collection of Unique Member (Elements) )
+
+5. Sorted Sets (Collection of Unique Member with a Score Value)
+   Key  Score Value
