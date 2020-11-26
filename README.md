@@ -4,7 +4,7 @@ Welcome to Redis.
 
 Redis is an in memory Database
 
-Redis is very very fast 1 Million Sets/Sec
+Redis is very very fast 1.5 Million Sets/Sec
 
 Redis store data in Key value pairs
 
@@ -44,3 +44,12 @@ Redis Data Structure
 
 5. Sorted Sets (Collection of Unique Member with a Score Value)
    Key  Score Value
+   
+   
+   6. Pub/Sub
+   Publisher -> Information/Message -> Emit/BroadCast/Send
+   Subcriber -> Information/Message -> Recive/Listen 
+
+   Channel
+
+   Publish -> Message -> Channel -> Subcriber -> Recive/Listen
